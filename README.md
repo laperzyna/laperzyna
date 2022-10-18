@@ -32,3 +32,7 @@ I am profficient in:
   - Mern
   - Photoshop
   - Illustrator
+
+## Contact me
+Email: laperzyna@gmail.com
+LinkedIn: www.linkedin.com/in/lidia-perzyna-157a47224
