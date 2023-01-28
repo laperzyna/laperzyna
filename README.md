@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-My name is Lidia Perzyna(she/her) and I am a third year Computer Science and Design student at the University of San Francisco. I am based in San Fransisco and Los Angeles. I am currently in a Networking class learning about socket programming and am also in a Paradigms class that introduces the ins and outs of compilers and interpreters. I am also learning React-Native on my own time.
+My name is Lidia Perzyna(she/her) and I am a third year Computer Science and Design student at the University of San Francisco. I am based in San Fransisco and Los Angeles. I am currently in cs272, Software Development, where I am hoping to expand my knowledge in CS and put it into practice. I am also in a full-stack class, where I am able to brush up on my full-stack skills whilst also learning new skills. I am also learning React-Native on my own time.
 I am profficient in: 
   - Java, C, Python
   - Javascript, React, MongoDB, Mongoose, SQL, HTML, CSS, Bootstrap, Mern
