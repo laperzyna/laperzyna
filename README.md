@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-My name is Lidia Perzyna(she/her) and I am a fourth year Computer Science and Design student at the University of San Francisco. I am based in San Fransisco and Los Angeles. I am currently working on my senior team project where I am hoping to expand my knowledge in CS and put it into practice with my teamates. I am also in a Design class that heavily focuses on web design and development from the role of a Designer. 
+My name is Lidia Perzyna(she/her) and I am a Computer Science and Design student at the University of San Francisco. I am based in San Fransisco and Los Angeles. I am currently working on my senior team project where I am hoping to expand my knowledge in CS and put it into practice with my teamates. I am also in a Design class that heavily focuses on web design and development from the role of a Designer. 
 
 I am profficient in: 
   - Javascript, Java, C
