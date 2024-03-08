@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 My name is Lidia Perzyna(she/her) and I am a Computer Science and Design student at the University of San Francisco. I am based in San Fransisco and Los Angeles. I am currently working on my senior team project where I am hoping to expand my knowledge in CS and put it into practice with my teamates. I am also in a Design class that heavily focuses on web design and development from the role of a Designer. 
 
 I am profficient in: 
-  - Javascript, Java, C
-  - React, MongoDB, Mongoose, SQL, HTML, CSS, Bootstrap, Mern
-  - Photoshop, Illustrator, InDesign, Figma, SquareSpace, Canva
+  - Javascript, HTML, CSS, Java, C
+  - React, Node.js, D3.js, Handlebars
+  - MongoDB, SQL, Full-stack web development, API handling, Object-Oriented Programming
 
 ## Contact me
 Email: laperzyna@gmail.com
