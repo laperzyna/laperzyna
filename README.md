@@ -20,7 +20,7 @@ My name is Lidia Perzyna(she/her) and I am a Computer Science and Design student
 
 I am profficient in: 
   - Javascript, HTML, CSS, Java, C
-  - React, Node.js, D3.js, Handlebars
+  - React, Node.js, D3.js
   - MongoDB, SQL, Full-stack web development, API handling, Object-Oriented Programming
 
 ## Contact me
