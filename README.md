@@ -16,14 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-My name is Lidia Perzyna(she/her) and I am a Computer Science and Design student at the University of San Francisco. I am based in San Fransisco and Los Angeles. I am currently working on my senior team project where I am hoping to expand my knowledge in CS and put it into practice with my teamates. I am also in a Design class that heavily focuses on web design and development from the role of a Designer. 
-
-I am profficient in: 
-  - Javascript, HTML, CSS, Java, C
-  - React, Node.js, D3.js
-  - MongoDB, SQL, Full-stack web development, API handling, Object-Oriented Programming
+Hi there! My name is Lidia Perzyna(she/her) and I'm a Software Engineer passionate about UX design and full-stack engineering. I have a particular interest in Terraform and system design efficiency. I have a B.S. in Computer Science and minor in Design and have 2+ years of experience as software engineer.
 
 ## Contact me
 Email: laperzyna@gmail.com
 LinkedIn: www.linkedin.com/in/lidia-perzyna-157a47224
-Profile: https://www.perzydesign.com/
